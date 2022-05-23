@@ -1,0 +1,13 @@
+body{
+      
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+      
+}
+#login{
+      background-image: url("./img/fondo3.jpg");
+      background-repeat: no-repeat;
+      color: white;
+}
+#menu{
+      background-color: rgba(23, 47, 79, 1); 
+}
